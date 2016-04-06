@@ -1,5 +1,5 @@
-# Movie_Trailer_website
-Udacity Full Stack Project 1 - Movie Trailer website. Server-side code to store a list of movies, including box art imagery and a movie trailer URL. 
+# Udacity Full Stack Project 1 - Movie Trailer
+Server-side code to store a list of movies, including box art imagery and a movie trailer URL. I then serve this data as a web page allowing visitors to review their movies and watch the trailers.
 
 #### Running the Movie_Trailer_website program
 0. If you don't have python, [download it here ](https://www.python.org/downloads/). This program was built in Python 2.7
