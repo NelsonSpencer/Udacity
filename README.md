@@ -1,1 +1,1 @@
-# Working my way through Udacity's Data Analyst nanodegree
+# Working my way through Udacity's Data Analyst nanodegree.
